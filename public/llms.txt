@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://homemade-a5bbbc85.zappy5.app
+https://example.com
 גלו את המאפייה הביתית של ילדה בת 12 שמביאה לכם מתוקים בעבודת יד עם המון נשמה. חמימות, טעמים אותנטיים וריח של בית מחכים לכם. בואו לטעום אהבה אפויה עוד היום!
 
 ### חטיפים
-https://homemade-a5bbbc85.zappy5.app/treats
+https://example.com/treats
 מחפשים חטיפים מתוקים עם טעם של פעם? אצלנו תמצאו עוגיות בסגנון לוין בייקרי ועוד הפתעות אפויות בטריות יומית. כל ביס הוא חיבוק חם. הזמינו עכשיו ותתאהבו מחדש!
 
 ### אודות
-https://homemade-a5bbbc85.zappy5.app/about
+https://example.com/about
 סיפורה המתוק של ילדה בת 12 שהפכה חלום למאפייה ביתית אמיתית. תשוקה, יצירתיות ואהבה ללא גבולות נכנסים לכל מתכון. הציצו אל מאחורי הקלעים והתחברו לקסם האותנטי.
 
 ### גלריה
-https://homemade-a5bbbc85.zappy5.app/gallery
+https://example.com/gallery
 צפו בתמונות מעוררות תיאבון של המאפים הביתיים שלנו – מעוגיות לוין בייקרי מושלמות ועד עוגות יום הולדת צבעוניות. כל תמונה מספרת סיפור של אהבה. היכנסו להתאהב בעיניים!
 
 ### צור קשר
-https://homemade-a5bbbc85.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין מאפים ביתיים לאירוע או סתם לפנק את המשפחה? השאירו פרטים ואחזור אליכם עם חיוך. מבטיחה לכם חוויה מתוקה ובלתי נשכחת. כתבו לי עכשיו ובואו נאפה יחד!
 
 ### תודה רבה | homemade
-https://homemade-a5bbbc85.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפניתם אלינו! ההודעה שלכם התקבלה בהצלחה ונחזור אליכם בהקדם. homemade - מאפייה קרובה אליי המציעה מאפים טריים ועוגיות לוויין.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://homemade-a5bbbc85.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://homemade-a5bbbc85.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://homemade-a5bbbc85.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://homemade-a5bbbc85.zappy5.app/contact
-- Endpoint: https://homemade-a5bbbc85.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://homemade-a5bbbc85.zappy5.app/sitemap.xml
-- Robots: https://homemade-a5bbbc85.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://homemade-a5bbbc85.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
